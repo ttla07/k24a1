@@ -1,7 +1,7 @@
 function checkLogin() {
   var user = document.getElementById("username").value.trim();
   var pass = document.getElementById("password").value.trim();
-  if (user === "tuantai" && pass === "2207") {
+  if (user === "k24a1" && pass === "2025") {
     document.getElementById("login-container").style.display = "none";
     var videoContainer = document.getElementById("video-container");
     var video = document.getElementById("myVideo");
