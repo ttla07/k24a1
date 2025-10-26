@@ -73,8 +73,8 @@ button:hover {
 }
 
 .avatar {
-    width: 100px;
-    height: 100px;
+    width: 20px;
+    height: 20px;
     border-radius: 50%;
     border: 3px solid #0ff;
     box-shadow: 0 0 15px #0ff;
